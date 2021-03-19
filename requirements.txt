@@ -14,7 +14,7 @@ mccabe==0.6.1
 numpy==1.18.5
 opencv-python==4.2.0.34
 pathspec==0.8.0
-Pillow==7.1.2
+Pillow==8.1.1
 pylint==2.5.3
 regex==2020.6.8
 six==1.15.0
